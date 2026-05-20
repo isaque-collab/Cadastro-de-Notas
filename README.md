@@ -1,4 +1,4 @@
-# 📚 CadastroDeNotas
+# 📚 Cadastro De Notas
 
 Programa em Java para cadastro e análise de notas de alunos via terminal.
 
